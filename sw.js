@@ -3,7 +3,10 @@ const CACHE_NAME = "ambient-player-v1";
 const APP_FILES = [
     "./",
     "./index.html",
-    "./sounds.js"
+    "./sounds.js",
+    "./manifest.webmanifest",
+    "./icon-192.png",
+    "./icon-512.png"
 ];
 
 // Install
