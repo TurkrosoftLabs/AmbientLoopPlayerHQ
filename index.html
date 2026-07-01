@@ -166,6 +166,12 @@ All sounds © 2026, Enes Deniz.
 
 <script>
 
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./sw.js");
+    });
+}
+
 const list = document.getElementById("trackList");
 const playBtn = document.querySelector(".play");
 const stopBtn = document.querySelector(".stop");
