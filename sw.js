@@ -1,4 +1,4 @@
-const CACHE_NAME = "ambient-player-v2";
+const CACHE_NAME = "ambient-player-v3";
 
 const APP_FILES = [
     "./",
