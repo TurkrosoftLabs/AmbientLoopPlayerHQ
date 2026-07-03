@@ -1,5 +1,6 @@
 const sounds = [
     "Birds and distant traffic.wav",
+    "Beach.wav",
     "Rain on beach.wav",
     "Wind.wav",
     "Polar.wav",
