@@ -2,6 +2,7 @@ const sounds = [
     "Birds and distant traffic.wav",
     "Beach.wav",
     "Rain on beach.wav",
+    "Rain.wav",
     "Wind.wav",
     "Polar.wav",
     "Fireplace.wav",
