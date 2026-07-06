@@ -1,15 +1,16 @@
 const sounds = [
     "Birds and distant traffic.wav",
-    "Beach.wav",
-    "Rain on beach.wav",
+    "Shore.wav",
+    "Rain on the shore.wav",
     "Rain.wav",
     "Wind.wav",
-    "Polar.wav",
+    "Polar wind.wav",
     "Fireplace.wav",
     "Crickets.wav",
     "Air conditioner.wav",
     "Desk fan.wav",
     "Car.wav",
+    "Tire change.wav",
     "Airplane.wav",
     "Aliens.wav"
 ]
