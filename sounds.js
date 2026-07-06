@@ -10,7 +10,7 @@ const sounds = [
     "Air conditioner.wav",
     "Desk fan.wav",
     "Car.wav",
-    "Tire change.wav",
+    "Tire change.flac",
     "Airplane.wav",
     "Aliens.wav"
 ]
