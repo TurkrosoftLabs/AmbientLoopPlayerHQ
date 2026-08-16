@@ -14,6 +14,7 @@ const sounds = [
     "Event hall.wav",
     "Car.wav",
     "Tire change.ogg",
-    "Airplane.wav",
+    "Airplane interior.wav",
+    "Airplane interior2.wav",
     "Aliens.wav"
 ]
